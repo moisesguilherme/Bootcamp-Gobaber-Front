@@ -1,8 +1,8 @@
 # Gobarber-Front
 
-Projeto vai integrar com API desenvolvida em Node Js.
+Projeto vai integrar com API desenvolvida em Node Js, link:https://github.com/GabrielBritoAlmeida/Bootcamp-Gobaber
 
-Usando React Js para contruir a interface do sistema de agendamento.
+Usando ReactJs para construir a interface do sistema.
 
 # ----- Comandos Projeto --------
 
@@ -24,4 +24,7 @@ Usando React Js para contruir a interface do sistema de agendamento.
 # Reactotron
 
 > yarn add reactotron-react-js
-# Bootcamp-Gobaber-Front
+
+# Validações Prop-types
+
+> yarn add prop-types
