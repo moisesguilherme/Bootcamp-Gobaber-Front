@@ -28,3 +28,13 @@ Usando ReactJs para construir a interface do sistema.
 # Validações Prop-types
 
 > yarn add prop-types
+
+# CSS
+
+> yarn add styled-components
+
+# Paths
+
+> yarn add customize-cra react-app-rewired -D
+
+> yarn add babel-plugin-root-import -D
